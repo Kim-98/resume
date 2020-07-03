@@ -32,4 +32,4 @@
 
 |과목명|점수|
 |---|---|
-|<color=red>Git|A+|
+|<font color="red">Git</font>|A+|
