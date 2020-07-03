@@ -33,3 +33,7 @@
 |과목명|점수|
 |---|---|
 |<span style="color:red">Git</span>|A+|
+
+![git hub page](일반.PNG)
+
+<img src=일반.PNG width=100 height=100>
