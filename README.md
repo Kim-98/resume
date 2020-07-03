@@ -18,4 +18,4 @@
 - 피부양자 서류 인쇄
 
 추천 사이트  
-www.hallym.ac.kr
+[한림대학교](www.hallym.ac.kr)
